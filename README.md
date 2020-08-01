@@ -1,2 +1,2 @@
-# f-utter-wallpaper-app
+# futter-wallpaper-app
 wallpaper
